@@ -97,7 +97,7 @@ Busco crear soluciones útiles, escalables y bien estructuradas, mientras contin
 ¡Siempre abierto a colaborar, aprender y participar en proyectos interesantes! 🚀
 
 * 🌐 **GitHub**: [jwagnerpenagos-ai](https://github.com/jwagnerpenagos-ai)
-* 💼 **LinkedIn**: Próximamente
+* 💼 **LinkedIn**: https://www.linkedin.com/in/jos%C3%A9-felipe-wagner-penagos-20406b401/
 * 🌎 **Portfolio**: En construcción...
 
 ---
