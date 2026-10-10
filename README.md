@@ -15,7 +15,6 @@ Me interesa el desarrollo tanto frontend como backend, la arquitectura de softwa
 * 🚀 **Actualmente trabajando en**: Aplicaciones web, APIs, proyectos académicos y proyectos full stack
 * 🌱 **Aprendiendo actualmente**: React, Flask, gestión y gerencia de proyectos TI, machine learning y buenas prácticas de desarrollo
 * 💬 **Pregúntame sobre**: Desarrollo web, GitHub, React, Python, APIs, bases de datos y proyectos universitarios
-* ⚡ **Dato curioso**: Muchas veces empiezo un proyecto “simple” y termino reorganizando toda la arquitectura 😄
 
 ---
 
